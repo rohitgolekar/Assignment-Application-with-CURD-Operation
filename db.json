@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "Fname": "rohit",
+      "Lname": "golekar",
+      "Email": "rohitgolekar@outlook.com",
+      "id": 6
+    },
+    {
+      "Fname": "rrr",
+      "Lname": "rrr",
+      "Email": "cxc@gmail.com",
+      "id": 7
+    },
+    {
+      "Fname": "rohit",
+      "Lname": "golekar",
+      "Email": "rohitgolekar000@gmail.com",
+      "id": 8
+    },
+    {
+      "Fname": "rohit",
+      "Lname": "golekar",
+      "Email": "rohitgolekar000@gmail.com",
+      "id": 9
+    }
+  ]
+}
